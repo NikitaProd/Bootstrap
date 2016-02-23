@@ -1,0 +1,251 @@
+
+/*<!-- CSS -------------------->*/
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+/*<!-- NAVBAR -------------------->*/
+
+.navbar-brand {
+  font-family: "Oswald", Arial, Verdana;
+  text-transform: uppercase;
+}
+
+.navbar {
+  opacity: 0.3;
+  background: #000000;
+  border: 0;
+}
+
+.navbar-default .navbar-brand {
+  color: white;
+}
+
+.navbar-default .navbar-brand:hover {
+  color: #e62e00;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+ background: #e62e00;
+  color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: white;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  color: #e62e00;
+}
+
+
+/*<!-- HOME -------------------->*/
+
+.home-selection {
+  height: auto !important;
+  min-height: 100%;
+  overflow: hidden;
+  padding-top: 15%;
+  background-color: #b3b3b3;
+  background-size: cover;
+  text-align: center;
+  color: white;
+  text-shadow: 2px, 1px, 0 rgba (0, 0, 0, 0.7);
+}
+
+.home-selection h1{
+  font-family: 'Oswald', Arial, Verdana;
+  font-size: 60px;
+  color: white;
+  text-transform: uppercase;
+}
+
+.home-selection h2{
+  font-family: 'Roboto', Arial, Verdana;
+  font-size:  20px;
+  color: white;
+}
+
+.btn {
+  background-color: red;
+
+}
+
+
+/*<!-- ABOUT -------------------->*/
+
+.about-selection {
+  height: auto !important;
+  min-height: 100%;
+  overflow: hidden;
+  padding: 30px;
+  min-height: 100%;
+  padding-top: 11%;
+  background: url(https://img1.etsystatic.com/003/0/7258698/il_fullxfull.377343011_bcvo.jpg) no-repeat center;;
+  background-size: cover;
+  opacity: 0.5;
+  background-size: cover;
+  text-align: center;
+}
+
+.about-selection h1{
+  font-family: 'Oswald', Arial, Verdana;
+  font-size: 45px;
+  z-index: 2;
+  color: red;
+  text-transform: uppercase;
+}
+
+
+
+/*<!-- SERVISES-------------------->*/
+
+.servises-selection {
+  min-height: 100%;
+  overflow: hidden;
+  height: auto !important;
+  background: url(img/about.jpg) no-repeat center;
+  opacity: 0.5;
+  background-size: cover;
+  text-align: center;
+  padding-top: 11%;
+}
+
+.servises-selection h1{
+  font-family: 'Oswald', Arial, Verdana;
+  font-size: 45px;
+  z-index: 2;
+  color: red;
+  text-transform: uppercase;
+}
+
+
+/*<!-- CONTACT -------------------->*/
+
+.contact-selection {
+  height: auto !important;
+  min-height: 100%;
+  overflow: hidden;
+  padding-top: 11%;
+  background-color: #b3b3b3;
+  opacity: 0.5;
+  text-align: center;
+}
+
+.contact-selection h1{
+  font-family: 'Oswald', Arial, Verdana;
+  font-size: 45px;
+  z-index: 2;
+  color: red;
+  text-transform: uppercase;
+}
+
+
+/*-- FOOTER --------------------*/
+
+.Copyright{
+  background-color:#b3d1ff;
+  opacity: 0.8;
+}
+
+.c{
+  text-align: center;
+  color: blue;
+  padding: 2%;
+  height: 10vh;
+  width: 100%;
+  font-size: 10px;
+  color: #FFF;
+}
+
+/*-- FOOTER END--------------------*/
+
+/*-- THE END--------------------*/
+
+
+
+
+/*<!-- CSS  ABSOLUT-------------------->*/
+/**{
+  margin:0;
+  padding: 0;
+  font-family: Arial;
+}
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}*/
+
+/*<!---------------------->*/
+
+
+
+/*<!-- CSS - BODY ------------------->*/
+
+
+/*<!-- MENU -------------------->*/
+
+
+
+
+/*<!-- MENU END-------------------->*/
+
+
+
+
+/*<!-- container 1-------------------->*/
+
+/*<!-- container 2-------------------->*/
+
+/*<!-- container 3-------------------->*/
+
+/*<!-- container 4-------------------->*/
+
+/*<!-- container 5-------------------->*/
+
+/*<!-- CSS - BODY END------------------->*/
+
+
+
+/*-- FOOTER --------------------*/
+
+
+/*-- FOOTER END--------------------*/
+
+/*-- THE END--------------------*/
+
+
+
+
+
+/*  MEDIA SCREEN ----------------------------- */
+
+/*  Media screen 1100----------------------------- */
+
+/*@media screen and (max-width:1100px){
+
+}*/
+
+
+
+/*  Media screen 768----------------------------- */
+
+/*@media screen and (max-width:768px){
+
+}*/
+
+
+/*  Media screen 400----------------------------- */
+
+/*@media screen and (max-width:400px){
+
+}*/
+
+/*  Media screen   THE END----------------------------- */
+
+
+/*<!-- THE END SITE-------------------->*/
