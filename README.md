@@ -6,5 +6,5 @@ OnePage https://htmlpreview.github.io/?https://github.com/NikEurope/Bootstrap/bl
 
 OnePageWhite https://htmlpreview.github.io/?https://github.com/NikEurope/Bootstrap/blob/master/OnePageWhite/index.html
 
-
+OnePagePays https://htmlpreview.github.io/?https://github.com/NikEurope/Bootstrap/blob/master/OnePagePays/index.html
 
