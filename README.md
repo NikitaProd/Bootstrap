@@ -9,4 +9,4 @@ OnePageWhite https://htmlpreview.github.io/?https://github.com/NikEurope/Bootstr
 
 OnePagePays https://htmlpreview.github.io/?https://github.com/NikEurope/Bootstrap/blob/master/OnePagePays/index.html
 
-OnePage
+OnePageWorld https://htmlpreview.github.io/?https://github.com/NikEurope/Bootstrap/blob/master/OnePagePays/index.html
