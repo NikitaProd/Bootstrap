@@ -1,0 +1,242 @@
+
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Helvetica Neue', arial, sans-serif;
+  font-weight:100;
+}
+
+.header {
+  position: fixed;
+  width: 100%;
+  background: #ffffff;
+  opacity: 0.8;
+  z-index: 10;
+}
+.header .navbar-brand {
+  font-weight: 900;
+  background: #ffffff;
+}
+.header .navbar {
+  margin: 0;
+  border: none;
+  background: #ffffff;
+}
+
+.page-section {
+  width: 100%;
+  min-height: 100vh;
+  padding: 60px 0;
+  padding-top: 10%;
+  border-bottom: 5px solid #00cc99;
+}
+.page-section h1 {
+  font-size: 4em;
+  margin: 50px 0;
+}
+.page-section h1 span {
+  font-weight: 200;
+}
+.page-section h2 {
+  font-size: 4em;
+  font-weight: 100;
+  color: #039999;
+  margin: 0 0 30px;
+  text-align: center;
+  /*text-shadow: 1px 1px 1px #5a5a5a;*/
+  }
+.page-section p {
+  font-size: 1.2em;
+  font-weight: 100;
+  /*margin: 0 25% 20px 0;*/
+}
+.page-section p.lead {
+  font-size: 1.8em;
+}
+.page-section p.caption {
+  color: #fff;
+  padding: 30px;
+  background: url(https://hoursofidleness.files.wordpress.com/2012/06/gray-card.jpg);
+  background: rgba(57, 57, 57, 0.4) none;
+  text-shadow: 1px 1px 1px #000;
+}
+
+/*MODIF PAGE */
+
+div.logo {
+  margin-top: 4px;
+  margin-bottom: auto;
+}
+
+div.logo a.logo img {
+  width: 40px; 
+  height: 40px;
+  margin: auto;
+}
+ 
+
+.navbar-inverse .navbar-toggle {
+  border-color: #FFF;
+}
+
+.navbar-inverse .navbar-toggle .icon-bar {
+  background-color: #757474;
+}
+
+
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+    background-color: #FFF;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #039999;
+}
+
+.navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
+    color: #00cc99;
+}
+
+
+
+div#home .button1 {
+  width: 160px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+}
+
+div#home .btn {
+  background-color: red;
+  color: #039999;
+  border-radius: 20px;
+  min-height: 50px;
+  padding: 15px;
+}
+
+
+
+/*.navbar-header div#nav2 ul#nav2 {
+  width: 300px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-header div#nav2 ul#nav li {
+  display: inline;
+  margin: 10px;
+}*/
+
+/*MODIF*/
+.page-section#home {
+  background: url(http://static.ladepeche.fr/content/media/image/large/2015/05/18/shutterstock-22-9c7df123622-original.jpg) bottom center no-repeat;
+  opacity: 0.8;
+  background-size: cover;
+  /*background-color: white;*/
+}
+
+
+#page2 {
+  background: url(http://santecool.net/wp-content/uploads/2016/04/doctor-patient-640x405.jpg) bottom center no-repeat;
+  background-size: cover;
+}
+
+
+.page-section#Allemagne {
+  background: url(http://moulin-montreuil.webcollege.fr/wp-content/uploads/sites/31/2016/01/brandenburger_tor_02.jpg) top center no-repeat;
+  background-size: cover;
+}
+.page-section#Suisse {
+  background: url(http://airportail.net/wp-content/uploads/2009/06/ville-de-zurich.jpg) top center no-repeat;
+  background-size: cover;
+}
+
+@media (min-width: 768px) {
+  .header .navbar-brand {
+    padding-left: 0;
+  }
+  .navbar-nav {
+    float: right;
+  }
+
+  .navbar-inverse .navbar-nav > li > a {
+    color:#039999;
+  }
+
+  .navbar-inverse .navbar-nav > li > a:hover {
+    color:#00cc99;
+  }
+}
+
+@media (max-width: 768px) {
+  .navbar-inverse .navbar-toggle {
+    float: left;
+  }
+  
+  div.logo {
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  div.logo a.logo img {
+  width: 40px; 
+  height: 40px;
+  margin: auto;
+  }
+
+  .page-section h2 {
+    margin-top: 3%;
+    font-size: 3.3em;
+  }
+  div#home .btn {
+    min-height: 20px;
+    padding: 10px;
+  }
+}
+
+
+@media (max-width: 480px) {
+  .page-section h1 {
+    font-size: 3em;
+  }
+  .page-section h2 {
+    margin-top: 6%;
+    font-size: 2.5em;
+  }
+  .page-section p {
+    font-size: 1em;
+    margin: 0 0 20px;
+  }
+  div#home .button1 {
+    padding-top: 1px;
+  }
+  div#home .btn {
+    min-height: 20px;
+    padding: 10px;
+  }
+
+}
+
+
+/*-- FOOTER --------------------*/
+
+.Copyright{
+  background-color:#ffffff;
+  opacity: 0.8;
+}
+
+.c{
+  text-align: center;
+  color: blue;
+  padding: 2%;
+  height: 10vh;
+  width: 100%;
+  font-size: 10px;
+  color: #039999;
+}
+
+/*-- FOOTER END--------------------*/
+
+/*-- THE END--------------------*/
