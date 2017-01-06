@@ -7,5 +7,5 @@ https://webdesign.tutsplus.com/fr/articles/quick-tip-dont-forget-the-viewport-me
 
 EX:
 "
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<code><meta name="viewport" content="width=device-width, initial-scale=1"></code>
 "
