@@ -3,7 +3,6 @@
 Sites Bootstrap:
 
 
-
 OnePage https://htmlpreview.github.io/?https://github.com/NikEurope/Bootstrap/blob/master/OnePage/index.html
 
 OnePageWhite https://htmlpreview.github.io/?https://github.com/NikEurope/Bootstrap/blob/master/OnePageWhite/index.html
@@ -14,4 +13,4 @@ OnePagePays https://htmlpreview.github.io/?https://github.com/NikEurope/Bootstra
 OnePage + VIDEO BACKGROUND World https://htmlpreview.github.io/?https://github.com/NikEurope/Bootstrap/blob/master/OnePage%2BVB/index.html
 
 
-Site 5 Pages https://htmlpreview.github.io/?https://github.com/NikEurope/Bootstrap/blob/master/5PagesMed/index.html
+Site 5 Pages simple https://htmlpreview.github.io/?https://github.com/NikEurope/Bootstrap/blob/master/5PagesMed/index.html
