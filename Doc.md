@@ -25,3 +25,8 @@ EX:
 http://www.opentuto.com/changer-lordre-des-elements-dans-une-grille/
 
 Par défaut, les zones générées en utilisant une grille sont réparties de gauche à droite. Les classes .col-md-push-* et .col-md-pull-* permettent d’inverser l’ordre des éléments :   
+
+
+### Système de grille :  
+http://www.oneskyapp.com/fr/docs/bootstrap/css
+
