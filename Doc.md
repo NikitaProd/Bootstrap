@@ -25,38 +25,3 @@ EX:
 http://www.opentuto.com/changer-lordre-des-elements-dans-une-grille/
 
 Par défaut, les zones générées en utilisant une grille sont réparties de gauche à droite. Les classes .col-md-push-* et .col-md-pull-* permettent d’inverser l’ordre des éléments :   
-<div class="container"> 
- 
-  <div class="row"> 
- 
-   <div class="col-md-4 col-md-push-8"> 
-    <p>Zone déclarée en premier!</p> 
-   </div> 
- 
-   <div class="col-md-8 col-md-pull-4"> 
-    <p>Zone déclarée en deuxième!</p> 
-   </div> 
- 
-  </div> 
- 
-</div>
-	
-<div class="container"> 
- 
-  <div class="row"> 
- 
-   <div class="col-md-4 col-md-push-8"> 
-    <p>Zone déclarée en premier!</p> 
-   </div> 
- 
-   <div class="col-md-8 col-md-pull-4"> 
-    <p>Zone déclarée en deuxième!</p> 
-   </div> 
- 
-  </div> 
- 
-</div>
-
-
----------------------------------------------------------------
-
