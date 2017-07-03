@@ -1,7 +1,6 @@
 
+# Bootstrap
 
-<br />
-# Bootstrap:
 <br />
 <br />
 
