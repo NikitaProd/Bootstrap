@@ -19,7 +19,7 @@ Site 5 Pages simple https://htmlpreview.github.io/?https://github.com/NikEurope/
 <br />
 
 
-<img alt="http://img.youtube.com/vi/zpenQJcrBNg/sddefault.jpg" src="https://camo.githubusercontent.com/c088049951331216143364ccd4001bff2efaa1dd/687474703a2f2f696d672e796f75747562652e636f6d2f76692f7a70656e514a6372424e672f736464656661756c742e6a7067" data-canonical-src="http://getbootstrap.com/assets/img/components.png" style="max-width:100%;">
+<img alt="http://img.youtube.com/vi/zpenQJcrBNg/sddefault.jpg" src="http://getbootstrap.com/assets/img/components.png" data-canonical-src="http://getbootstrap.com/assets/img/components.png" style="max-width:100%;">
 
 <br />
 
