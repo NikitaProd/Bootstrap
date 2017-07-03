@@ -17,9 +17,10 @@ Site 5 Pages simple https://htmlpreview.github.io/?https://github.com/NikEurope/
 
 <br />
 <br />
+<br />
 
 
-<img alt="http://img.youtube.com/vi/zpenQJcrBNg/sddefault.jpg" src="http://getbootstrap.com/assets/img/components.png" data-canonical-src="http://getbootstrap.com/assets/img/components.png" style="max-width:100%;">
+<img src="http://getbootstrap.com/assets/img/components.png" data-canonical-src="http://getbootstrap.com/assets/img/components.png" style="max-width:100%;">
 
 <br />
 
