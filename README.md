@@ -1,5 +1,17 @@
 
 
+<br />
+# Bootstrap:
+<br />
+<br />
+
+<a href ="https://github.com/NikitaEurope/Bootstrap/edit/master/README.md"><img src="http://getbootstrap.com/assets/img/components.png" style="max-width:100%;"></a>
+
+<br />
+
+
+
+
 # Sites Bootstrap:
 
 
@@ -13,16 +25,6 @@ OnePagePays https://htmlpreview.github.io/?https://github.com/NikEurope/Bootstra
 OnePage + VIDEO BACKGROUND World https://htmlpreview.github.io/?https://github.com/NikEurope/Bootstrap/blob/master/OnePage%2BVB/index.html
 
 Site 5 Pages simple https://htmlpreview.github.io/?https://github.com/NikEurope/Bootstrap/blob/master/5PagesMed/index.html
-
-
-<br />
-<br />
-<br />
-
-
-<a href ="https://github.com/NikitaEurope/Bootstrap/edit/master/README.md"><img src="http://getbootstrap.com/assets/img/components.png" style="max-width:100%;"></a>
-
-<br />
 
 
 # CUSTOM Bootstrap:
