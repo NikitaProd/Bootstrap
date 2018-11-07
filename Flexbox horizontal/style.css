@@ -5,7 +5,6 @@ body {
   margin: 7%;
 }
 
-
 /*-- CUSTOM -------------------*/
 
 .logo {
@@ -76,8 +75,8 @@ body {
 }
 .card--content {
   background-color: #e74c3c;
-  min-width: 300px;
-  margin: 5px;
+  min-width: 250px;
+  margin: 7px;
   box-shadow: 3px 5px rgba(255,255,255,0.05);
 }
 
