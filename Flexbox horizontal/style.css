@@ -15,6 +15,11 @@ body {
   font-size: 12px;
 }
 
+.logo .container .img{
+  font-size: 12px;
+  height: 150px;
+}
+
 .text {
   margin: 5% 0;
 }
